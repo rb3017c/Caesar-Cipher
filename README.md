@@ -1,1 +1,1 @@
-## This Python code decrypts a Caesar cipher file
+This Python code decrypts a Caesar cipher file
